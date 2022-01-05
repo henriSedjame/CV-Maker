@@ -6,3 +6,24 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+# For docx file processing
+docx-rs = "0.3.2"
+
+# For pdf file processing
+printpdf = "0.5.0"
+
+# For cli
+clap = { version = "3.0.4", features = ["derive"] }
+
+
+# For
+anyhow = "1.0.52"
+
+# For serialization
+serde = {version = "1.0.133", features= ["derive"] }
+serde_derive = "1.0.133"
+serde_yaml = "0.8.23"
+
+# For error handling
+thiserror = "1.0.30"

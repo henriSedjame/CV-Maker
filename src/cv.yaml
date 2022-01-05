@@ -1,0 +1,39 @@
+title: "DEVELOPPEUR FULLSTACK"
+subtitle: "JAVA - KOTLIN"
+identity:
+  firstname: "Henri Joel"
+  lastname: "SEDJAME"
+contact:
+  phone: "06.58.18.12.50"
+  email: "sedhjo@gmail.com"
+  address: "20 rue de Beausite 86000 Poitiers"
+skills:
+  -
+    domain: "BACKEND PROGRAMMING"
+    items:
+      - "JAVA"
+      - "KOTLIN"
+      - "RUST"
+  -
+    domain: "FRONTEND PROGRAMMING"
+    items:
+      - "ANGULAR"
+      - "FLUTTER"
+      - "ELM"
+
+degrees:
+  -
+    start_year: 2000
+    end_year: 2003
+    label: "Doctorat Chimie"
+
+experiences:
+  -
+    city: "Niort"
+    start_date: "2020-04"
+    end_date: "2021-05"
+    highlights:
+      - "Reactive programming"
+      - "Microservices"
+    technical_stack:
+      - "JAVA 8"
